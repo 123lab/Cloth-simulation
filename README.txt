@@ -1,4 +1,3 @@
-
 1. Compare to the Jello simluation, what are the advantages of using PBD over using mass-spring system?
 The advantages of using PBD are (1) PBD gives control over explicit integration and removes the typical instability problems. (2) Positions of vertices and parts of objects can directly be manipulated during the simulation. (3) The explicit position based solver is easy to understand and implement.
 
@@ -36,7 +35,6 @@ CollisionConstraint::project_constraint()
  
 Videos are included in the folder "Output_Videos".
 
-If you have any questions, please feel free to contact me: zimengy@seas.upenn.edu
 
 
 
