@@ -1,0 +1,79 @@
+﻿生成启动时间为 2014/3/8 23:09:26。
+     1>项目“F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\PositionBasedDynamics\PositionBasedDynamics.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\PositionBasedDynamics.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../tinyxml /I../glm /I../glew/include /I../glfw/include /I../freeglut/include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Source\cloth_sim.cpp Source\constraint.cpp Source\main.cpp Source\scene.cpp
+         scene.cpp
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\scene.cpp(389): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\scene.cpp(406): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         main.cpp
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\main.cpp(240): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\main.cpp(248): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\main.cpp(256): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\main.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\main.cpp(441): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+         constraint.cpp
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         cloth_sim.cpp
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(340): warning C4101: “phi”: 未引用的局部变量
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(425): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(427): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(440): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(442): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(446): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(453): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(455): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(458): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(473): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(475): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\2 cis 563\hw3\submit\clothsim_zimengyang\positionbaseddynamics\source\cloth_sim.cpp(567): warning C4101: “norm_fraction”: 未引用的局部变量
+         正在生成代码...
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../tinyxml /I../glm /I../glew/include /I../glfw/include /I../freeglut/include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt Source\stb_image.c Source\stb_image_write.c
+         stb_image_write.c
+         stb_image.c
+         正在生成代码...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\PositionBasedDynamics.exe.embed.manifest.res" Debug\PositionBasedDynamics_manifest.rc 
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\Debug\PositionBasedDynamics.exe" /INCREMENTAL /NOLOGO /LIBPATH:../glew/lib /LIBPATH:../glfw/lib /LIBPATH:../tinyxml /LIBPATH:../freeglut/lib tinyxmld_STL.lib glew32.lib glu32.lib opengl32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PositionBasedDynamics.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\Debug\PositionBasedDynamics.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\Debug\PositionBasedDynamics.lib" /MACHINE:X86 Debug\PositionBasedDynamics.exe.embed.manifest.res
+         Debug\cloth_sim.obj
+         Debug\constraint.obj
+         Debug\main.obj
+         Debug\scene.obj
+         Debug\stb_image.obj
+         Debug\stb_image_write.obj
+         LINK : 没有找到 F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\Debug\PositionBasedDynamics.exe 或上一个增量链接没有生成它；正在执行完全链接
+     1>tinyxmld_STL.lib(tinyxml.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“tinyxmld_STL.lib(tinyxml.obj)”或在“F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>tinyxmld_STL.lib(tinyxmlerror.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“tinyxmld_STL.lib(tinyxmlerror.obj)”或在“F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>tinyxmld_STL.lib(tinyxmlparser.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“tinyxmld_STL.lib(tinyxmlparser.obj)”或在“F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\PositionBasedDynamics.exe.embed.manifest" /manifest Debug\PositionBasedDynamics.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         PositionBasedDynamics.vcxproj -> F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\Debug\PositionBasedDynamics.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\PositionBasedDynamics.unsuccessfulbuild”。
+         正在对“Debug\PositionBasedDynamics.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\2 CIS 563\hw3\submit\ClothSim_ZimengYang\PositionBasedDynamics\PositionBasedDynamics.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.76
